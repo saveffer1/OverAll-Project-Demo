@@ -1,0 +1,12 @@
+PC:
+	Name : DESKTOP-OORTFM0
+	CPU Load 12 %
+	CPU Temp 54.0 C
+	RAM Useage 72 %
+Status :
+	System Up Time 03 D : 02 H : 12 m : 58 s
+	Program Up Time 00 D : 00 H : 00 m : 29 s
+Network Infomation :
+	IP : 192.168.157.1
+Last Time :
+	th-TH: 21/6/2564 10:47:11
